@@ -115,7 +115,6 @@ All available processes and theirs documents can be found in
   :package-version '(Org . "10.0")
   :type 'symbol)
 
-;;;###autoload
 (defcustom org-latex-preview-process-alist
     `((dvipng
        :programs ("latex" "dvipng")
