@@ -80,6 +80,9 @@ testing/.test-org-id-locations
 *#
 .#*
 
+# Track patch with async and live LaTeX previews
+!karthink.patch
+
 #
 # Local variables:
 # End:
